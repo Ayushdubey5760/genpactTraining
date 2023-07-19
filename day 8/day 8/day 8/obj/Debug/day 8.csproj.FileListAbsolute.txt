@@ -1,0 +1,3 @@
+C:\Users\user\OneDrive\day 8\day 8\day 8\obj\Debug\day 8.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\day 8\day 8\day 8\obj\Debug\day 8.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\OneDrive\day 8\day 8\day 8\obj\Debug\day 8.csproj.CoreCompileInputs.cache
