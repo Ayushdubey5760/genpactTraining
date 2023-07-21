@@ -1,0 +1,6 @@
+C:\Users\user\OneDrive\genpactTrainng\exersice day 8\Exercise 8\Exercise 8\bin\Debug\Exercise 8.dll
+C:\Users\user\OneDrive\genpactTrainng\exersice day 8\Exercise 8\Exercise 8\bin\Debug\Exercise 8.pdb
+C:\Users\user\OneDrive\genpactTrainng\exersice day 8\Exercise 8\Exercise 8\obj\Debug\Exercise 8.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\genpactTrainng\exersice day 8\Exercise 8\Exercise 8\obj\Debug\Exercise 8.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\genpactTrainng\exersice day 8\Exercise 8\Exercise 8\obj\Debug\Exercise 8.dll
+C:\Users\user\OneDrive\genpactTrainng\exersice day 8\Exercise 8\Exercise 8\obj\Debug\Exercise 8.pdb
