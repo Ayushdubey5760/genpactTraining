@@ -1,0 +1,9 @@
+C:\Users\user\OneDrive\genpactTrainng\day 10\Exercise2Lib\bin\Debug\Exercise2Lib.dll
+C:\Users\user\OneDrive\genpactTrainng\day 10\Exercise2Lib\bin\Debug\Exercise2Lib.pdb
+C:\Users\user\OneDrive\genpactTrainng\day 10\Exercise2Lib\bin\Debug\nunit.framework.dll
+C:\Users\user\OneDrive\genpactTrainng\day 10\Exercise2Lib\bin\Debug\nunit.framework.xml
+C:\Users\user\OneDrive\genpactTrainng\day 10\Exercise2Lib\obj\Debug\Exercise2Lib.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\genpactTrainng\day 10\Exercise2Lib\obj\Debug\Exercise2Lib.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\genpactTrainng\day 10\Exercise2Lib\obj\Debug\Exercise2Lib.csproj.CopyComplete
+C:\Users\user\OneDrive\genpactTrainng\day 10\Exercise2Lib\obj\Debug\Exercise2Lib.dll
+C:\Users\user\OneDrive\genpactTrainng\day 10\Exercise2Lib\obj\Debug\Exercise2Lib.pdb

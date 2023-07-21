@@ -1,0 +1,15 @@
+C:\Users\user\OneDrive\genpactTrainng\day 10\Numlibb\Numlibb\bin\Debug\Numlibb.dll
+C:\Users\user\OneDrive\genpactTrainng\day 10\Numlibb\Numlibb\bin\Debug\Numlibb.pdb
+C:\Users\user\OneDrive\genpactTrainng\day 10\Numlibb\Numlibb\bin\Debug\nunit.framework.dll
+C:\Users\user\OneDrive\genpactTrainng\day 10\Numlibb\Numlibb\bin\Debug\nunit.framework.xml
+C:\Users\user\OneDrive\genpactTrainng\day 10\Numlibb\Numlibb\obj\Debug\Numlibb.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\genpactTrainng\day 10\Numlibb\Numlibb\obj\Debug\Numlibb.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\genpactTrainng\day 10\Numlibb\Numlibb\obj\Debug\Numlibb.csproj.CopyComplete
+C:\Users\user\OneDrive\genpactTrainng\day 10\Numlibb\Numlibb\obj\Debug\Numlibb.dll
+C:\Users\user\OneDrive\genpactTrainng\day 10\Numlibb\Numlibb\obj\Debug\Numlibb.pdb
+C:\Users\user\OneDrive\genpactTrainng\day 10\Numlibb\Numlibb\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\user\OneDrive\genpactTrainng\day 10\Numlibb\Numlibb\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\user\OneDrive\genpactTrainng\day 10\Numlibb\Numlibb\bin\Debug\nunit.engine.dll
+C:\Users\user\OneDrive\genpactTrainng\day 10\Numlibb\Numlibb\bin\Debug\nunit.engine.api.dll
+C:\Users\user\OneDrive\genpactTrainng\day 10\Numlibb\Numlibb\bin\Debug\nunit.engine.core.dll
+C:\Users\user\OneDrive\genpactTrainng\day 10\Numlibb\Numlibb\bin\Debug\testcentric.engine.metadata.dll
