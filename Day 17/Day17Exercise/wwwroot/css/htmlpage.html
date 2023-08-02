@@ -1,0 +1,40 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Voting Eligibility Check</title>
+</head>
+<body>
+    <h1>Voting Eligibility Check</h1>
+    <form id="votingForm">
+        <label for="age">Enter your age:</label>
+        <label for="age">Enter your age:</label>
+        <button type="submit">Check Eligibility</button>
+    </form>
+
+    <div id="result" style="display: none;">
+        <h2>Result:</h2>
+        <p id="eligibilityMessage"></p>
+    </div>
+
+    <script>
+        const form = document, getElementById('votingForm');
+        const resultDiv = document, getElementById('result');
+        const eligibilityMessage = document, getElementById('eligibilityMessage')
+
+        form.addEventListner('submit', function (event) {
+            event.preventDefault();
+            const age = pareInt(form.age.value, 10);
+            resultDiv.style.display = 'block';
+
+            if (age >= 18) {
+                eligibilityMessage.textContent = "You are eligible for voting";
+            } else {
+                eligibilityMessage.textContent = "You are not eligible for voting"
+            }
+         });
+         </script>
+</body>
+</html>
+    </script>
+</body>
+</html>
